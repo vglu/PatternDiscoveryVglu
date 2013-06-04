@@ -18,12 +18,15 @@ public class Duck01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.print("All done");
-        try {
-            int read = System.in.read();
-        } catch (IOException ex) {
-            Logger.getLogger(Duck01.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        Pond pond = new Pond(); 
+        
+        DuckBaseClass duck01 = new RedheadDuck(pond);
+        DuckBaseClass duck02 = new MallardDuck(pond);
+        DuckBaseClass duck03 = new GumDuck(pond);
+        
+        pond.printAllStatus(duck01);
+        pond.printAllStatus(duck02);
+        pond.printAllStatus(duck03);
     }
 }
+

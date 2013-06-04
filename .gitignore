@@ -108,3 +108,4 @@ Backup*/
 UpgradeLog*.XML
 /jNBDuck/Duck01/nbproject/private/
 /jNBDuck/Duck01/build/
+/jNBDuck/Duck01/dist/
