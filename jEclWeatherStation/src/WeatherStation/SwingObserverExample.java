@@ -23,7 +23,7 @@ public class SwingObserverExample {
 		button.addActionListener(new AngelListener());
 		button.addActionListener(new DevilListener());
 		frame.getContentPane().add(BorderLayout.CENTER, button);
-		frame.setVisible(true);
+		//frame.setVisible(true);
 	}
 }
 
