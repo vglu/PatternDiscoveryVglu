@@ -7,5 +7,18 @@ package pizzaStoryPackage;
  * Time: 23:39
  * To change this template use File | Settings | File Templates.
  */
-public class VeggiePizza    extends  Pizza {
+public class VeggiePizza extends Pizza {
+
+    public VeggiePizza(PizzaIngredientFactory _ingredientFactory) {
+        super(_ingredientFactory);
+    }
+
+    @Override
+    void prepare() {
+        System.out.println("Preparing " + name);
+        dough   = ingredientFactory.createDough();
+        sauce   = ingredientFactory.createSauce();
+        cheese  = ingredientFactory.createCheese();
+        clam    = ingredientFactory.createClam();
+    }
 }

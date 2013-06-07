@@ -7,19 +7,18 @@ package pizzaStoryPackage;
  * Time: 23:42
  * To change this template use File | Settings | File Templates.
  */
-public class PizzaStore {
-    SimplePizzaFactory factory;
-    public PizzaStore(SimplePizzaFactory _factory) {
-        this.factory = _factory;
-    }
+public abstract class PizzaStore {
+
 
     public Pizza orderPizza(String _type) {
         Pizza pizza;
-        pizza = this.factory.createPizza(_type);
+        pizza = createPizza(_type);
         pizza.prepare();
         pizza.bake();
         pizza.cut();
         pizza.box();
         return pizza;
     }
+
+    abstract Pizza createPizza(String _type);
 }
