@@ -11,32 +11,39 @@ public class ChicagoPizzaIngredientFactory implements PizzaIngredientFactory {
 
     @Override
     public Dough createDough() {
+        System.out.println("ADD ThickCrustDough");
         return new ThickCrustDough();
     }
 
     @Override
     public Sauce createSauce() {
+        System.out.println("ADD PlimTomatoSauce");
         return new PlimTomatoSauce();
     }
 
     @Override
     public Cheese createCheese() {
+        System.out.println("ADD Mozzarella");
         return new Mozzarella();
     }
 
     @Override
     public Veggies[] createVeggies() {
+
         Veggies veggies[] = {new Spinach(), new EggPlant(), new BlackOlives()};
+        System.out.println("ADD Spinach EggPlant BlackOlives");
         return veggies;
     }
 
     @Override
     public Pepperoni createPepperoni() {
+        System.out.println("ADD SlicedPepperoni");
         return new SlicedPepperoni();
     }
 
     @Override
     public Clams createClam() {
+        System.out.println("ADD FrozenClams");
         return new FrozenClams();
     }
 }

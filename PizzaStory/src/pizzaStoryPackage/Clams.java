@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 9:58
  * To change this template use File | Settings | File Templates.
  */
-public class Clams {
+public interface Clams {
 }

@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 10:33
  * To change this template use File | Settings | File Templates.
  */
-public class MarinaraSauce extends Sauce {
+public class MarinaraSauce implements Sauce {
 }

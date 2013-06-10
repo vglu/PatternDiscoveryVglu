@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 10:34
  * To change this template use File | Settings | File Templates.
  */
-public class FreshClams extends Clams {
+public class FreshClams implements Clams {
 }

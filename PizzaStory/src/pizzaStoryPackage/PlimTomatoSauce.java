@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 10:16
  * To change this template use File | Settings | File Templates.
  */
-public class PlimTomatoSauce extends Sauce {
+public class PlimTomatoSauce implements Sauce {
 }

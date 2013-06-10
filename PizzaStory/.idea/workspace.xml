@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21068f88-60ba-4878-8d02-032a70084cd6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/Cheese.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/Cheese.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaStore.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaStore.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/Clams.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/Clams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/Dough.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/Dough.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/FrozenClams.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/FrozenClams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/Mozzarella.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/Mozzarella.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/PlimTomatoSauce.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/PlimTomatoSauce.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/Sauce.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/Sauce.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java" afterPath="$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java" />
     </list>
     <ignored path="PizzaStory.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +36,7 @@
     <file path="/ChicagoStyleVeggiePizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370589681945" ignored="false" />
     <file path="/ChicagoStyleCheesePizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370589599899" ignored="false" />
     <file path="/PizzaIngredientFactory.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370530004289" ignored="false" />
-    <file path="/NYPizzaIngredientFactory.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370590746202" ignored="false" />
+    <file path="/NYPizzaIngredientFactory.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370593150560" ignored="false" />
     <file path="/ChicagoPizzaIngredientFactory.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370530250875" ignored="false" />
     <file path="/CheesePizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370589182820" ignored="false" />
     <file path="/ClamPizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370589025607" ignored="false" />
@@ -34,6 +47,18 @@
     <file path="/CaliforniaStylePepperoniPizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370590116753" ignored="false" />
     <file path="/CaliforniaStyleClamPizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370590146597" ignored="false" />
     <file path="/CaliforniaStyleVeggiePizza.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370590171307" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370596027496" ignored="false" />
+    <file path="/Dough.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595384772" ignored="false" />
+    <file path="/ThickCrustDough.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595431229" ignored="false" />
+    <file path="/Sauce.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595458835" ignored="false" />
+    <file path="/PlimTomatoSauce.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595475342" ignored="false" />
+    <file path="/MarinaraSauce.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595482006" ignored="false" />
+    <file path="/Clams.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595492129" ignored="false" />
+    <file path="/FrozenClams.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595504171" ignored="false" />
+    <file path="/FreshClams.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595510429" ignored="false" />
+    <file path="/Cheese.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595525530" ignored="false" />
+    <file path="/ReggianoCheese.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595536499" ignored="false" />
+    <file path="/Mozzarella.java" changelist="21068f88-60ba-4878-8d02-032a70084cd6" time="1370595543018" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,46 +119,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NYPizzaIngredientFactory.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java">
+      <file leaf-file-name="PizzaStore.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/PizzaStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="67" selection-start="581" selection-end="581" vertical-scroll-proportion="0.7893864">
+            <state line="13" column="22" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PizzaIngredientFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/PizzaIngredientFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThickCrustDough.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="191" selection-end="206" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChicagoPizzaIngredientFactory.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ChicagoPizzaIngredientFactory.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="19" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+            <state line="19" column="50" selection-start="498" selection-end="498" vertical-scroll-proportion="0.5338843">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mushroom.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Mushroom.java">
+      <file leaf-file-name="PlimTomatoSauce.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/PlimTomatoSauce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+            <state line="9" column="39" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarinaraSauce.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="37" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Clams.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Clams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrozenClams.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/FrozenClams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="35" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,34 +176,16 @@
       <file leaf-file-name="FreshClams.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+            <state line="9" column="34" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedPepper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/RedPepper.java">
+      <file leaf-file-name="Cheese.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Cheese.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Onion.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Onion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Garlic.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Garlic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+            <state line="9" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,7 +194,16 @@
       <file leaf-file-name="ReggianoCheese.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+            <state line="9" column="38" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mozzarella.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Mozzarella.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="34" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -202,22 +227,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStyleCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStylePepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStyleClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStyleVeggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaPizzaIngredientFactory.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Garlic.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Onion.java" />
         <option value="$PROJECT_DIR$/src/pizzaStoryPackage/RedPepper.java" />
-        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java" />
         <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Mushroom.java" />
         <option value="$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Dough.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/PlimTomatoSauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Clams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/FrozenClams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/pizzaStoryPackage/Mozzarella.java" />
       </list>
     </option>
   </component>
@@ -423,7 +448,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32800853" sideWeight="0.4994664" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33013844" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32800853" sideWeight="0.50053364" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16755603" sideWeight="0.28647497" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33013844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -431,7 +456,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980111" sideWeight="0.67145133" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16488793" sideWeight="0.66986156" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16488793" sideWeight="0.67199147" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39829606" sideWeight="0.4994664" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32800853" sideWeight="0.4994664" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -506,100 +531,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStylePepperoniPizza.java">
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="65" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+        <state line="23" column="36" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStyleClamPizza.java">
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="55" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaStyleVeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="59" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="315" selection-end="406" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/CaliforniaPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Garlic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Onion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/RedPepper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Mushroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="191" selection-end="206" vertical-scroll-proportion="0.0">
+        <state line="45" column="8" selection-start="1125" selection-end="1162" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -611,9 +552,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/NYPizzaIngredientFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Dough.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="67" selection-start="581" selection-end="581" vertical-scroll-proportion="0.7893864">
+        <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ThickCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/PlimTomatoSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/MarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Clams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/FrozenClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="35" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/FreshClams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/Mozzarella.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pizzaStoryPackage/ChicagoPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="50" selection-start="498" selection-end="498" vertical-scroll-proportion="0.5338843">
           <folding />
         </state>
       </provider>

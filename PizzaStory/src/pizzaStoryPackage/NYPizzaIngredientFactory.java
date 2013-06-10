@@ -10,6 +10,7 @@ package pizzaStoryPackage;
 public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
     @Override
     public Dough createDough() {
+        System.out.println("ADD ThickCrustDough");
         return new ThickCrustDough();
     }
 
@@ -17,27 +18,32 @@ public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 
     @Override
     public Sauce createSauce() {
+        System.out.println("ADD MarinaraSauce");
         return new MarinaraSauce();
     }
 
     @Override
     public Cheese createCheese() {
+        System.out.println("ADD ReggianoCheese");
         return new ReggianoCheese();
     }
 
     @Override
     public Veggies[] createVeggies() {
         Veggies veggies[] = {new Garlic(), new Onion(), new Mushroom(), new RedPepper()};
+        System.out.println("ADD Garlic Onion Mushroom RedPepper");
         return veggies;
     }
 
     @Override
     public Pepperoni createPepperoni() {
+        System.out.println("ADD SlicedPepperoni");
         return new SlicedPepperoni();
     }
 
     @Override
     public Clams createClam() {
+        System.out.println("ADD createClam");
         return new FreshClams();
     }
 }

@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 9:59
  * To change this template use File | Settings | File Templates.
  */
-public class Sauce {
+public interface Sauce {
 }

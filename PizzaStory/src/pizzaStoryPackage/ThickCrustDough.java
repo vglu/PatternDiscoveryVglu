@@ -7,5 +7,5 @@ package pizzaStoryPackage;
  * Time: 10:16
  * To change this template use File | Settings | File Templates.
  */
-public class ThickCrustDough extends Dough {
+public class ThickCrustDough implements Dough {
 }
