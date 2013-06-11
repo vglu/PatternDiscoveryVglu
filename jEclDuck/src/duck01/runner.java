@@ -4,11 +4,8 @@ import duck01.Pond.Action;
 
 public class runner {
 
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Pond pond = new Pond();
 		pond.addDuck(new DuckBaseClass());
@@ -16,6 +13,7 @@ public class runner {
 		pond.addDuck(new RedheadDuck());
 		pond.addDuck(new RiberDuck());
 		pond.addDuck(new TreeDuck());
+        pond.addDuck(new TurkeyAdapter(new WildTurkey()));
 		
 		pond.doSomething(Action.Display);
 		System.out.println("========================");

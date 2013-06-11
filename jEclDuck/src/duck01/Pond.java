@@ -4,17 +4,17 @@ import java.util.*;
 
 public class Pond {
 
-	ArrayList<DuckBaseClass> ducks = new ArrayList<DuckBaseClass>();
-	enum Action {Quack, Swim, Display, Fly};
+	ArrayList<Duck> ducks = new ArrayList<Duck>();
+	enum Action {Quack, Swim, Display, Fly}
 	
-	public void addDuck(DuckBaseClass _duck)
+	public void addDuck(Duck _duck)
 	{
 		ducks.add(_duck);
 	}
 	
 	public void doSomething(Action _action)
 	{
-		Iterator<DuckBaseClass> it = ducks.iterator();
+		Iterator<Duck> it = ducks.iterator();
 		int						i  = 0;
 		String 					ret;
 		System.out.println("************ -=" + _action + " =- **************");

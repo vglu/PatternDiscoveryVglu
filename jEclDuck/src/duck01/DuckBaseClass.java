@@ -1,6 +1,6 @@
 package duck01;
 
-public class DuckBaseClass {
+public class DuckBaseClass implements Duck{
 
 	IFlyBehavior	flyBehavior;
 	IQuackBehavior	quackBehavior;
@@ -40,10 +40,6 @@ public class DuckBaseClass {
 	{
 		return "Duck " + this.duckClassName() + " can swim"; 
 	}
-	
-/*	public String fly()
-	{
-		return "Enybody Duck " + this.duckClassName() + " can fly";
-	}
-*/	
+
+
 }

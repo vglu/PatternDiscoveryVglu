@@ -7,7 +7,6 @@ public class RedheadDuck extends DuckBaseClass {
 	 */
 	@Override
 	public String duckClassName() {
-		// TODO Auto-generated method stub
 		return "RedheadDuck";
 	}
 
@@ -16,7 +15,6 @@ public class RedheadDuck extends DuckBaseClass {
 	 */
 	@Override
 	public String display() {
-		// TODO Auto-generated method stub
 		return this.duckClassName() + " My HEAD is RED!";
 	}
 
