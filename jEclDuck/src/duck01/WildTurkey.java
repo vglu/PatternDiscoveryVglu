@@ -8,8 +8,8 @@ package duck01;
  */
 public class WildTurkey implements Turkey {
     @Override
-    public String gouble() {
-        return "Goubble goubble";
+    public String gobble() {
+        return "Gobble gobble";
     }
 
     @Override

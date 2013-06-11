@@ -7,6 +7,6 @@ package duck01;
  * Time: 16:47
  */
 public interface Turkey {
-    public String gouble();
+    public String gobble();
     public String fly();
 }

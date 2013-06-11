@@ -16,7 +16,7 @@ public class TurkeyAdapter implements Duck {
 
     @Override
     public String performQuackBehavior() {
-        return turkey.gouble();
+        return turkey.gobble();
     }
 
     @Override
