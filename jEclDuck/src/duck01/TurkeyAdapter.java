@@ -42,4 +42,9 @@ public class TurkeyAdapter implements Duck {
     public String swim() {
         return "Not swim";
     }
+
+    @Override
+    public int weigth() {
+        return 12;
+    }
 }

@@ -18,9 +18,14 @@ public class RiberDuck extends DuckBaseClass {
 		return this.duckClassName() + " I am loock like a toy";
 	}
 
-	/* (non-Javadoc)
-	 * @see duck01.DuckBaseClass#quack()
-	 */
+    @Override
+    public int weigth() {
+        return 2;
+    }
+
+    /* (non-Javadoc)
+     * @see duck01.DuckBaseClass#quack()
+     */
 /*	@Override
 	public String quack() {
 	

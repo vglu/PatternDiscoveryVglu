@@ -19,5 +19,10 @@ public class MallardDuck extends DuckBaseClass {
 		return this.duckClassName() + " My body is EXELENT!";
 	}
 
-	
+    @Override
+    public int weigth() {
+        return 3;    //To change body of overridden methods use File | Settings | File Templates.
+    }
+
+
 }

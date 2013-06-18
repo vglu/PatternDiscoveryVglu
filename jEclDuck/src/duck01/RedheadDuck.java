@@ -18,4 +18,9 @@ public class RedheadDuck extends DuckBaseClass {
 		return this.duckClassName() + " My HEAD is RED!";
 	}
 
+    @Override
+    public int weigth() {
+        return 6;
+    }
+
 }

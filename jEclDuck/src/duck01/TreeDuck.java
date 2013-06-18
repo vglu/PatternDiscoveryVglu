@@ -12,9 +12,14 @@ public class TreeDuck extends DuckBaseClass
 		return "BIG TREE DUCK! ";
 	}
 
-	/* (non-Javadoc)
-	 * @see duck01.DuckBaseClass#duckClassName()
-	 */
+    @Override
+    public int weigth() {
+        return 1;
+    }
+
+    /* (non-Javadoc)
+     * @see duck01.DuckBaseClass#duckClassName()
+     */
 	@Override
 	public String duckClassName() {
 		// TODO Auto-generated method stub

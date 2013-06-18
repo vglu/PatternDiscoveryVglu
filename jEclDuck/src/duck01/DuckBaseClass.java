@@ -1,6 +1,6 @@
 package duck01;
 
-public class DuckBaseClass implements Duck{
+public class DuckBaseClass implements Duck, Comparable{
 
 	IFlyBehavior	flyBehavior;
 	IQuackBehavior	quackBehavior;
@@ -41,5 +41,22 @@ public class DuckBaseClass implements Duck{
 		return "Duck " + this.duckClassName() + " can swim"; 
 	}
 
+    @Override
+    public int weigth() {
+        return 0;
+    }
 
+
+    @Override
+    public int compareTo(Object o) {
+        Duck otherDuck = (Duck)o;
+        if (this.weigth() < otherDuck.weigth()) {
+            return -1;
+        } else if (this.weigth() == otherDuck.weigth()) {
+            return 0;
+        }
+        return 1;
+
+
+    }
 }

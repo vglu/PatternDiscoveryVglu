@@ -23,6 +23,9 @@ public class runner {
 		System.out.println("========================");
 		pond.doSomething(Action.Fly);
 		System.out.println("========================");
+
+        System.out.println("Try sort");
+        //Arrays.sort(pond.ducks);
 	}
 
 }
