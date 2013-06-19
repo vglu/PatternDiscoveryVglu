@@ -7,7 +7,7 @@ package com.company;
  * Time: 17:28
  */
 public class SoldState implements State {
-    GumballMachine gumballMachine;
+    transient GumballMachine gumballMachine;
 
     public SoldState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;
